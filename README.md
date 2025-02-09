@@ -13,10 +13,6 @@
 
 - 🤝 I’m looking for help with **Financial Model building**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nishank123-abc](https://github.com/nishank123-abc)
-
-- 💬 Ask me about **Financial Modeling,Applied statistics**
-
 - 📫 How to reach me **bhadenishank@gmail.com**
 
 - ⚡Hobbies **I like to do sky glazing, Traveling**
