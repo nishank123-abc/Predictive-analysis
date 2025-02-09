@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Business Intelligence Project 📈📊**
 
-- 🌱 I’m currently learning **Qlick Sense,Machine learning,Devoops & AWS**
+- 🌱 I’m currently learning **Qlik Sense,Devoops & AWS**
 
 - 👾 I’m looking to collaborate on **AI/Ml project**
 
