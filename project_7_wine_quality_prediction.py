@@ -1,6 +1,6 @@
 ## Project Overview
 
-The project follows a typical machine learning workflow:
+machine learning workflow:
 
 1.  **Data Collection:** The Wine Quality dataset is loaded using pandas.
 2.  **Data Analysis and Visualization:** Exploratory data analysis (EDA) is performed to understand the data, including descriptive statistics, distribution of the target variable (quality), and correlation analysis using heatmaps.
