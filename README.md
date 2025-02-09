@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishank123-abc" alt="nishank123-abc" /></a> </p>
 
-- 🔭 I’m currently working on **Business Intelligence Project **
+- 🔭 I’m currently working on **Business Intelligence Project 📈📊**
 
 - 🌱 I’m currently learning **Qlick Sense,Machine learning,Devoops & AWS**
 
-- 👯 I’m looking to collaborate on **AI/Ml project**
+- 👾 I’m looking to collaborate on **AI/Ml project**
 
 - 🤝 I’m looking for help with **Financial Model building**
 
 - 📫 How to reach me **bhadenishank@gmail.com**
 
-- ⚡Hobbies **I like to do sky glazing, Traveling**
+- ⚡Hobbies **I like to do sky glazing 🔭🌠 , Traveling 🚂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
