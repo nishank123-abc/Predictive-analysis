@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishank123-abc" alt="nishank123-abc" /></a> </p>
 
-- 🔭 I’m currently working on **Business Intelligence PRoject**
+- 🔭 I’m currently working on **Business Intelligence Project **
 
 - 🌱 I’m currently learning **Qlick Sense,Machine learning,Devoops & AWS**
 
@@ -36,4 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishank123-abc&show_icons=true&locale=en" alt="nishank123-abc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishank123-abc&" alt="nishank123-abc" /></p>
+
 
