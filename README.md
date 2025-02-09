@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **bhadenishank@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W6o7YFJFxwwfswfoGCj_A3iHj6iV86jp/view?usp=sharing](https://drive.google.com/file/d/1W6o7YFJFxwwfswfoGCj_A3iHj6iV86jp/view?usp=sharing)
-
 - ⚡Hobbies **I like to do sky glazing, Traveling**
 
 <h3 align="left">Connect with me:</h3>
